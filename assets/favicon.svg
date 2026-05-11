@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="No Prompt for Breath scan icon">
+  <rect width="64" height="64" rx="8" fill="#063f82"/>
+  <path d="M8 14h48M8 28h48M8 42h48M18 6v52M32 6v52M46 6v52" stroke="#4f91cd" stroke-width=".8" opacity=".5"/>
+  <path d="M15 51V31c0-9.4 7.6-17 17-17s17 7.6 17 17v20M15 51h34M20 51V31M26 51V21M32 51V15M38 51V21M44 51V31" fill="none" stroke="#f8fdff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M22 18c3.6-5.6 12.5-7.1 18.4-2.2" fill="none" stroke="#f8fdff" stroke-width="2" stroke-linecap="round"/>
+  <path d="M30 13c2.5-4.5 7.2-6.8 11.9-5.8 4.2.9 7.5 3.9 8.6 7.8M41 14l9 2.8-8.7 3.3" fill="none" stroke="#f8fdff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="43" cy="12.8" r="1.2" fill="#f8fdff"/>
+</svg>
